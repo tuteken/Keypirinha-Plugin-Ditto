@@ -1,3 +1,21 @@
 # Keypirinha-Plugin-Ditto
 Copy text from the Ditto Clipboard Manager back to the system clipboard.
 
+Keypirinha Plugin: Ditto
+===========================
+
+This plugin for Keypirinha provides access to saved items in Ditto Clipboard Manager[http://ditto-cp.sourceforge.net/].
+
+Configuration
+-------------
+
+The Ditto database location must be provided order to retrieve clipped items
+
+1. Enter the full path to the database in the user version of ditto.ini 
+    * type "Configure Package: Ditto" into Keypirinha to open the configuration files
+
+Release Notes
+-------------
+
+**V 1.0**
+- First release of plugin.
