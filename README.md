@@ -3,6 +3,10 @@ Keypirinha Plugin: Ditto
 
 This plugin for Keypirinha provides access to saved items in [Ditto Clipboard Manager](http://ditto-cp.sourceforge.net/).
 
+Download
+--------
+[Keypirinha-Plugin-Ditto](https://github.com/tuteken/Keypirinha-Plugin-Ditto/releases/latest)
+
 Configuration
 -------------
 
