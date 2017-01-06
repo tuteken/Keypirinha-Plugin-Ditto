@@ -5,7 +5,7 @@ This plugin for Keypirinha provides access to saved items in [Ditto Clipboard Ma
 
 Download
 --------
-[Keypirinha-Plugin-Ditto](https://github.com/tuteken/Keypirinha-Plugin-Ditto/releases/latest)
+[Latest](https://github.com/tuteken/Keypirinha-Plugin-Ditto/releases/latest)
 
 Configuration
 -------------
